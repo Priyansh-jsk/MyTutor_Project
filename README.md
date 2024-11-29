@@ -22,4 +22,4 @@ Online resources for video content
 Front-end Technology: Html, CSS, JavaScript
 Back-end Technology: Java Spring Boot
 Deployment: Docker, Kubernetes, Aws
-DataBase: MySqlMyTutor origina
+DataBase: MySql
